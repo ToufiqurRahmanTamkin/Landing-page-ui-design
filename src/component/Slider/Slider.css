@@ -1,0 +1,33 @@
+.slider_main_bg{
+    background: #FAC600;
+    overflow: hidden !important;
+}
+
+.display-showing {
+    opacity: 0;
+}
+
+.display-showing {
+    opacity: 0;
+}
+
+
+span.bold_text {
+    font-weight: 700;
+}
+
+.banner___img img {
+    height: 513px;
+}
+
+.about_site_caption {
+    padding-top: 100px;
+    position: relative;
+    top: 20px;
+}
+
+.about_site_caption h1 {
+    color: #00346F !important;
+    line-height: 75px;
+    font-size: 50px;
+}

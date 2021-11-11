@@ -1,0 +1,38 @@
+.liveOnlineClass{
+    background: #F8F8F8;
+    padding: 100px ;
+}
+
+.liveOnlineClass h2 span {
+    color: #002D66 !important;
+    font-weight: 800;
+}
+
+.liveOnlineClass h2 {
+    color: #002D66 !important;
+}
+
+.liveOnlineClass p {
+    font-size: 15px;
+    line-height: 25px;
+    margin-top: 16px;
+    font-weight: 400;
+    color: #767676;
+}
+
+.liveOnlineClass img {
+    height: 354px;
+    border-radius: 41%;
+    position: absolute;
+}
+
+.need-position {
+    position: relative;
+    bottom: 150px;
+}
+
+
+.custom__div {
+    position: relative;
+    bottom: 223px;
+}

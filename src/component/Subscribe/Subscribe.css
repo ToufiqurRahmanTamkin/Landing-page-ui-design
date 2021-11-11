@@ -1,0 +1,89 @@
+.subscribe {
+    padding: 103px;
+    background: #4C5FE4;
+}
+
+.subscribe__title h1 {
+    color: #FFF;
+    line-height: 53px;
+}
+
+/* .subscribe___our_site {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 65px
+} */
+
+
+.need-flex {
+    border-bottom: 1px solid #dddd;
+    width: 100%;
+}
+
+.need-flex {
+    display: flex;
+}
+.need-flex input {
+    width: 96%;
+}
+
+.need-flex input {
+    width: 96%;
+    background: none;
+    border: #ffdead00;
+    padding-bottom: 11px;
+    outline: none;
+    color: blanchedalmond;
+}
+
+::placeholder{
+    color: #FFF;
+    font-size: 13px;
+}
+
+
+.need-flex button {
+    background: none;
+    border: none;
+    color: #FFD85B;
+    position: relative;
+    bottom: 3px;
+}
+.need-flex {
+    display: flex;
+    position: relative;
+    top: 63px;
+}
+
+.term-and-condition {
+    position: relative;
+    top: 88px;
+    z-index: 111;
+    display: flex;
+}
+
+.term-and-condition span {
+    position: relative;
+    bottom: 4px;
+    left: 13px;
+    color: #FFF;
+    font-size: 13px;
+}
+
+.start___learning_today{
+    background:#00376D;
+    padding: 50px 0;
+    text-align: center;
+    color: cornsilk;
+}
+
+.start___learning_today h1 {
+    font-size: 38px;
+    margin-bottom: 20px;
+}
+.start___learning_today p {
+    font-size: 14px;
+    font-weight: 300;
+}

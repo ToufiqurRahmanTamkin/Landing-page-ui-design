@@ -1,0 +1,71 @@
+.our__focus{
+    background-color:#F8F7F3;
+    padding: 100px 0;
+}
+
+
+.courses__Focus__rules {
+    padding: 14px;
+    margin-top: 20px;
+}
+
+.our__focus h2 {
+    font-size: 35px;
+    padding-bottom: 14px;
+    color: #002D66;
+}
+
+.our__focus h2 span {
+    font-weight: 800;
+}
+
+.our__focus p {
+    font-size: 14px;
+    width: 80%;
+    margin: 0 auto;
+    line-height: 29px;
+    font-weight: 400;
+    color: #767676;
+}
+
+
+.courses__Focus__rules span {
+    text-align: center !important;
+    display: inline-block;
+    width: 70px;
+    height: 70px;
+    line-height: 70px;
+    color: #FFF;
+    font-size: 35px;
+    border-radius: 12px;
+}
+
+.courses__Focus__rules h3 {
+    padding-top: 30px;
+    padding-bottom: 9px;
+}
+
+.courses__Focus__rules h3 {
+    font-size: 20px;
+}
+
+.courses__Focus__rules {
+    padding: 0 14px!important;
+    margin-top: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.courses__Focus__rules {
+    padding: 0 14px!important;
+    margin-top: 20px;
+    padding-top: 30px !important;
+    padding-bottom: 30px !important;
+    border-radius: 6px;
+    transition: .3s ease-in-out;
+    cursor: pointer;
+}
+
+.courses__Focus__rules:hover{
+    background: rgb(255, 255, 255);
+}

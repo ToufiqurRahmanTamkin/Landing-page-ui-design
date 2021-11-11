@@ -1,0 +1,20 @@
+.news {
+    margin: 0 auto;
+}
+
+.news h6 {
+    color: #b7b7b7;
+    font-weight: 400;
+    padding-bottom: 6px;
+}
+
+
+.news h2 {
+    color: #002D66 !important;
+    font-size: 34px;
+    font-weight: 600;
+}
+
+.news span {
+    color: #767676;
+}

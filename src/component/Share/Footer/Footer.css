@@ -1,0 +1,45 @@
+.footer{
+    background:#F8F8F8;
+    padding: 30px 0;
+}
+
+.footer h5 {
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 18px !important;
+}
+
+.footer-option ul li a {
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 400;
+    color: #767676;
+    line-height: 28px;
+    display: block;
+}
+
+ul.social li {
+    display: inline-block;
+    padding-right: 27px;
+}
+
+ul.social li a {
+    color: #767676;
+}
+
+.footer___last_Heading {
+    background: #E1E1E1;
+}
+
+.footer___last_Heading p {
+    position: relative;
+    top: 10px;
+    font-size: 14px;
+    text-transform: capitalize;
+    color: #767676;
+}
+
+.footer-option ul {
+    list-style: none;
+    padding: 0;
+}

@@ -1,0 +1,106 @@
+.Course{
+    padding-top: 70px ;
+    padding-bottom: 40px;
+    background: #FFFF;
+}
+
+.about_our_courses {
+    text-align: center;
+}
+
+
+.about_our_courses h6 {
+    color: #767676;
+    font-size: 15px;
+    font-weight: 400;
+    padding-bottom: 4px;
+}
+
+
+.course-card {
+    padding: 18px;
+    /* box-shadow: 23px 24px 18px #b9b9b938; */
+    border: 2px solid #b9b9b915;
+    border-radius: 7px;
+    transition: .3s ease-in-out;
+    cursor: pointer;
+}
+.course-card:hover{
+    box-shadow: 23px 24px 18px #b9b9b938;
+    border: 2px solid #b9b9b900;
+}
+
+.course-card:hover .logo p{
+    background: #F29A49 !important;
+    color: #FFFF;
+}
+.logo p {
+    text-align: center;
+    font-size: 32px;
+    
+    color: rgb(155, 155, 155);
+    width: 22%;
+    border-radius: 6px;
+    transition: .3s ease-in-out;
+}
+
+
+
+.course-card h3 {
+    padding: 9px 0;
+    margin-top: 26px;
+    font-size: 22px;
+}
+
+p.description {
+    font-size: 14px;
+    line-height: 24px;
+    color: #767676;
+}
+
+
+span.reviews {
+    position: relative;
+    right: -6px;
+}
+
+.add-to-card button {
+    background: #002D66;
+    padding: 7px 34px;
+    color: #fafafa;
+    font-size: 13px;
+    border: 2px solid #002D66;
+    margin-top: 11px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    transition: .3s ease-in-out;
+    z-index: 9999999999;
+}
+
+.add-to-card button:hover{
+    border: 2px solid #002D66;
+    color: #002D66;
+    background: none;
+}
+
+
+
+.add-to-card span {
+    font-size: 20px;
+    padding: 5px 30px;
+    background: #e5e5e5;
+    margin-top: 10px;
+    position: relative;
+    top: 2px;
+    left: 8px;
+    border: 2px solid #e5e5e5;
+    border-radius: 6px;
+    color: #767676;
+    transition: .3s ease-in-out;
+    cursor: pointer;
+    z-index: 99999999;
+}
+
+.add-to-card span:hover{
+    color:#002D66;
+}

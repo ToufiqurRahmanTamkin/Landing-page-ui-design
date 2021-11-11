@@ -1,0 +1,41 @@
+
+
+.growing_banner h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 44px;
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.growing_banner {
+    background: #E8F8EF;
+    margin: 80px 124px;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.growing_banner h1 {
+    font-weight: 600;
+    padding-bottom: 2px;
+}
+
+.growing_banner h6 {
+    padding-bottom: 7px;
+}
+
+.growing_banner button {
+    background: #22B060;
+    padding: 11px 45px;
+    border: 2px solid #22B060;
+    border-radius: 8px;
+    color: #FFF;
+    transition: .3s ease-in-out;
+}
+
+.growing_banner button:hover{
+     color: #22B060;
+    background: none;
+}

@@ -1,0 +1,63 @@
+
+
+.instructor {
+    position: relative;
+    bottom: 160px;
+}
+
+
+.instructor img {
+    width: 520px;
+    background: #F29A49;
+    border-radius: 275px;
+    height: 500px;
+}
+
+.instructor h2 {
+    font-size: 43px;
+    margin-top: 30px;
+    color: #002D66;
+}
+
+.instructor h2 span {
+    font-size: 44px;
+    font-weight: 800;
+}
+
+.instructor h6 {
+    font-size: 15px;
+    line-height: 30px;
+    font-weight: 500;
+    color: #767676;
+}
+
+
+.instructor h6 {
+    font-size: 15px;
+    line-height: 30px;
+    font-weight: 500;
+    color: #767676;
+    text-transform: lowercase;
+}
+
+.instructor p {
+    font-size: 16px;
+    color: #006799;
+    padding: 10px 0;
+}
+
+
+.instructor button {
+    padding: 15px 61px;
+    background: #F29A49;
+    border: 2px solid #F29A49;
+    color: #fafafa;
+    font-size: 15px;
+    border-radius: 6px;
+    transition: .3s ease-in-out;
+}
+
+.instructor button:hover{
+    background: none;
+    color: #F29A49;;
+}

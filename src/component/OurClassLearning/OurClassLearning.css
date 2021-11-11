@@ -1,0 +1,40 @@
+.ourClassLearning {
+    padding: 31px;
+    margin-bottom: 56px;
+    
+    border-radius: 10px;
+}
+
+.ourClassLearning span {
+    display: inline-block;
+    width: 70px;
+    height: 70px;
+    line-height: 70px;
+    color: #FFF;
+    font-size: 40px;
+    border-radius: 10px;
+    margin-bottom: 28px;
+}
+
+.ourClassLearning h4 {
+    text-transform: capitalize;
+    font-size: 20px;
+    margin-bottom: 16px;
+}
+
+.ourClassLearning p {
+    color: #767676;
+}
+.ourClassLearning {
+    padding: 31px;
+    margin-bottom: 56px;
+    border-radius: 10px;
+    border: 2px solid #dddddd1e;
+    cursor: pointer;
+    transition: .3s ease-in-out;
+}
+
+.ourClassLearning:hover{
+    box-shadow: 23px 24px 18px #b9b9b938;
+    border: 2px solid #dddddd00;
+}

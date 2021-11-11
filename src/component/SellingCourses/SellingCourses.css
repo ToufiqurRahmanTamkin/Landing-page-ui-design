@@ -1,0 +1,71 @@
+.our-Selling-course {
+    text-align: center;
+}
+
+span.custom___color {
+    color: #7676769c;
+}
+
+.our-Selling-course h1 {
+    color: #002D66;
+    margin-bottom: 16px;
+}
+
+.our-Selling-course p {
+    color: #767676;
+}
+
+.selling-card-img img {
+    height: 173px;
+    margin-top: 45px;
+}
+
+.selling-card-text {
+    padding: 13px;
+    background:#FAFAFA;
+    transition: .3s ease-in-out;
+}
+
+.selling-card-text h3 {
+    font-size: 17px;
+    padding-top: 6px ;
+}
+
+
+
+
+
+
+.selling-card-text p {
+    font-size: 13px;
+    color: #767676;
+}
+
+.star span {
+    font-size: 12px;
+}
+
+.selling-card-text p {
+    font-size: 13px;
+    color: #767676;
+    margin-bottom: 2px !important;
+}
+
+.view-more {
+    text-align: center;
+    padding-top: 46px;
+}
+
+
+.view-more button {
+    padding: 16px 89px;
+    border: 2px solid #EFEFEF;
+    color: #474747;
+    border-radius: 6px;
+    transition: .3s ease-in-out;
+}
+
+.view-more button:hover{
+    background: #002D66;
+    color: #ffff;
+}

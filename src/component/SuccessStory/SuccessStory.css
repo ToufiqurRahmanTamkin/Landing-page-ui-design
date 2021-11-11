@@ -1,0 +1,54 @@
+.successStoryCaption {
+    padding: 70px 0;
+}
+
+.successStoryCaption h1 {
+    font-size: 38px;
+    line-height: 53px;
+    color: #002D66;
+    padding-bottom: 18px;
+}
+
+
+.success {
+    padding: 39px;
+    background: #002D66;
+    border-radius: 10px;
+}
+
+.success span {
+    color: #fafafa;
+    font-size: 31px;
+    padding-bottom: 14px;
+    display: inline-block;
+    opacity: 0.7;
+}
+
+.success p {
+    color: #cdcdcd;
+}
+
+.success {
+    color: #CDCDCD;
+}
+
+.successStory{
+    background: url(../../images/88888888888888888.jpg)no-repeat;
+    background-size: cover;
+    height: 100vh;
+    object-fit: cover !important;
+    overflow: hidden !important;
+    position: relative;
+}
+.successStory::after{
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.555);
+}
+.successStrory{
+    overflow-x: hidden !important;
+}
